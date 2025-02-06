@@ -1,8 +1,13 @@
-<<<<<<< HEAD
-# practicum3
-=======
-# practicum3
 
-gthIS IS EXAMPLE
+## The project demo
 
->>>>>>> 35d6866 (upd)
+- Step 1. 
+
+
+
+- Step 2. 
+
+
+
+
+
